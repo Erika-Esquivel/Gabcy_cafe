@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>Desayunos &#8211; Cafetería Gabcy</title>
+	<atom:link href="https://gabcycafe.netlify.app/categoria-producto/desayunos/feed/" rel="self" type="application/rss+xml" />
+	<link>https://gabcycafe.netlify.app</link>
+	<description></description>
+	<lastBuildDate>Sun, 03 Nov 2024 04:51:24 +0000</lastBuildDate>
+	<language>es</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.7.1</generator>
+	<item>
+		<title>Paquete 2</title>
+		<link>https://gabcycafe.netlify.app/producto/paquete_2/</link>
+					<comments>https://gabcycafe.netlify.app/producto/paquete_2/#respond</comments>
+		
+		<dc:creator><![CDATA[gabs]]></dc:creator>
+		<pubDate>Sun, 03 Nov 2024 00:07:06 +0000</pubDate>
+				<guid isPermaLink="false">https://gabcycafe.netlify.app/producto/leather-clad-leisure-chair/</guid>
+
+					<description><![CDATA[Chilaquiles con pollo o huevo (al gusto),  acompañados con café americano y pan de dulce (pregunta por existencia)]]></description>
+										<content:encoded><![CDATA[<p>Chilaquiles con pollo o huevo (al gusto),  acompañados con café americano y pan de dulce (pregunta por existencia)</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://gabcycafe.netlify.app/producto/paquete_2/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">89</post-id>	</item>
+		<item>
+		<title>Paquete 3</title>
+		<link>https://gabcycafe.netlify.app/producto/paquete_3/</link>
+					<comments>https://gabcycafe.netlify.app/producto/paquete_3/#respond</comments>
+		
+		<dc:creator><![CDATA[gabs]]></dc:creator>
+		<pubDate>Sun, 03 Nov 2024 00:07:06 +0000</pubDate>
+				<guid isPermaLink="false">https://gabcycafe.netlify.app/producto/vintage-typewriter/</guid>
+
+					<description><![CDATA[Huevos al gusto, deliciosos hotcakes(2 piezas) y café americano]]></description>
+										<content:encoded><![CDATA[<p>Huevos al gusto, deliciosos hotcakes(2 piezas) y café americano</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://gabcycafe.netlify.app/producto/paquete_3/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">91</post-id>	</item>
+		<item>
+		<title>Paquete 1</title>
+		<link>https://gabcycafe.netlify.app/producto/paquete_1/</link>
+					<comments>https://gabcycafe.netlify.app/producto/paquete_1/#respond</comments>
+		
+		<dc:creator><![CDATA[gabs]]></dc:creator>
+		<pubDate>Sun, 03 Nov 2024 00:07:05 +0000</pubDate>
+				<guid isPermaLink="false">https://gabcycafe.netlify.app/producto/3-speed-bike/</guid>
+
+					<description><![CDATA[Huevos al gusto, acompañados con café americano y pan de dulce (pregunta por existencias)]]></description>
+										<content:encoded><![CDATA[<p>Huevos al gusto, acompañados con café americano y pan de dulce (pregunta por existencias)</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://gabcycafe.netlify.app/producto/paquete_1/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">85</post-id>	</item>
+	</channel>
+</rss>

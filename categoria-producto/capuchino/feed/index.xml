@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>Capuchino &#8211; Cafetería Gabcy</title>
+	<atom:link href="https://gabcycafe.netlify.app/categoria-producto/capuchino/feed/" rel="self" type="application/rss+xml" />
+	<link>https://gabcycafe.netlify.app</link>
+	<description></description>
+	<lastBuildDate>Sun, 03 Nov 2024 05:18:05 +0000</lastBuildDate>
+	<language>es</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.7.1</generator>
+	<item>
+		<title>Latte/Capuchino chico</title>
+		<link>https://gabcycafe.netlify.app/producto/latte_cap/</link>
+					<comments>https://gabcycafe.netlify.app/producto/latte_cap/#respond</comments>
+		
+		<dc:creator><![CDATA[gabs]]></dc:creator>
+		<pubDate>Sun, 03 Nov 2024 00:07:05 +0000</pubDate>
+				<guid isPermaLink="false">https://gabcycafe.netlify.app/producto/black-and-white/</guid>
+
+					<description><![CDATA[<p data-mce-fragment="1"><img class="alignnone size-full wp-image-127" src="https://gabcycafe.netlify.app/wp-content/uploads/2024/11/IMG_6382.jpeg" alt="" width="1438" height="1233" data-mce-fragment="1" />​</p>
+&#160;]]></description>
+										<content:encoded><![CDATA[<p>Espumosa leche vaporizada, con un toque de sabor (cajeta, rompope, nutella, vainilla, caramelo, moka blanco, amaretto, dulce de calabaza, chai, matcha, con o sin café)</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://gabcycafe.netlify.app/producto/latte_cap/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">87</post-id>	</item>
+	</channel>
+</rss>
